@@ -5,7 +5,6 @@
 <ul>
 <li>Html5</li>
 <li>Css3</li>
-<li>JS</li>
 <li>D3</li>
 </ul>
 <h2>Demo</h2>
