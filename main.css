@@ -1,0 +1,10 @@
+body {
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+}
+
+svg {
+  background-color: white;
+  margin-top: calc(50vh - 240px);
+}
